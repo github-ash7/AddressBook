@@ -5695,11 +5695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj",
+      "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\obj\\",
+      "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5716,8 +5716,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {
-              "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj"
+            "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj"
             }
           }
         }

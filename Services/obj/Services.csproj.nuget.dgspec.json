@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS Solutions\\Ur-Hackathon\\Services\\Services.csproj": {}
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Services\\Services.csproj": {}
   },
   "projects": {
-    "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj": {
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj",
+        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\obj\\",
+        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj"
+              "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj"
               }
             }
           }
@@ -110,14 +110,14 @@
         }
       }
     },
-    "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj",
+        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\obj\\",
+        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,14 +212,14 @@
         }
       }
     },
-    "E:\\VS Solutions\\Ur-Hackathon\\Repository\\Repository.csproj": {
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Repository\\Repository.csproj",
+        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Repository\\Repository.csproj",
+        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Repository\\obj\\",
+        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +236,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj"
+              "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj"
               }
             }
           }
@@ -318,14 +318,14 @@
         }
       }
     },
-    "E:\\VS Solutions\\Ur-Hackathon\\Services\\Services.csproj": {
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Services\\Services.csproj",
+        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Services\\Services.csproj",
+        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Services\\obj\\",
+        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -342,11 +342,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj": {
-                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj"
+              "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj": {
+                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj"
               },
-              "E:\\VS Solutions\\Ur-Hackathon\\Repository\\Repository.csproj": {
-                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Repository\\Repository.csproj"
+              "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\Repository.csproj": {
+                "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Repository\\Repository.csproj"
               }
             }
           }

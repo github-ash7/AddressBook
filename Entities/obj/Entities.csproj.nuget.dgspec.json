@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {}
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj": {
+    "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\Entities.csproj",
+        "projectPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\Entities\\obj\\",
+        "outputPath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

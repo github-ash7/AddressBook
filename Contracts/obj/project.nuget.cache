@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U0Y8TulOvWAIS+pxeIk2GcE9xFlp4+3Ypo0rqXb8zCgRlw0aGFXc4ZXrEC8wrWcgKadhqmyJk0EEiHQPQ5rIXg==",
+  "dgSpecHash": "fHj99ByUpbPgEz01CKrNgzYDKh9VK+roXDNqT7Et3K8817ybSWjMmQGQMLCO6xLryFRIUfU/woQlosxleQttHw==",
   "success": true,
-  "projectFilePath": "E:\\VS Solutions\\Ur-Hackathon\\Contracts\\Contracts.csproj",
+  "projectFilePath": "E:\\VS Solutions\\Ur-Hackathon\\AddressBook\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
